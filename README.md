@@ -1,4 +1,4 @@
-# Software Engineer
+### Software Engineer
 
 <div align=center>
   
@@ -6,6 +6,10 @@
   
 </div>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kia3415.github.io/)](https://kia3415.github.io/)
-
+<div align=center>
+  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=kia3415&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+</div>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kia3415.github.io/)](https://kia3415.github.io/)
