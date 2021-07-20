@@ -1,4 +1,4 @@
-### I'm android app developer
+Hi, I'm inae!
 
 <div align=center>
   
