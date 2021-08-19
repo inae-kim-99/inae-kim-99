@@ -1,7 +1,7 @@
 ### 👩🏻 Hi, I'm Inae!
 📗 I'm interested in AI and Android.  
 📘 I'm learning about AI and Android.
-### Skills
+### 💪🏻 Skills
 Kotlin, Java, Python
 
 <div align=center>
