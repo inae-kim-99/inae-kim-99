@@ -1,4 +1,4 @@
-### 👩🏻 Hi, I'm inae!
+### 👩🏻 Hi, I'm Inae!
 📗 I'm interested in AI and Android.  
 📘 I'm learning about AI and Android.
 
