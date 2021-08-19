@@ -1,5 +1,5 @@
 ### 👩🏻 Hi, I'm inae!
-📗 I'm interested in AI and Android.
+📗 I'm interested in AI and Android.  
 📘 I'm learning about AI and Android.
 
 <div align=center>
