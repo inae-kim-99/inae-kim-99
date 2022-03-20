@@ -22,15 +22,4 @@
 
 ## 🙋🏻‍♀️ Contact me
 
-<a href="mailto:kia3415@gmail.com">
-  kia3415@gmail.com
-</a>
-
-
-
-
-<div>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkia3415&count_bg=%2342A6FF&title_bg=%23FF4545&icon=iconify.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
+📬 Mail : <a href="mailto:kia3415@gmail.com">kia3415@gmail.com</a>
