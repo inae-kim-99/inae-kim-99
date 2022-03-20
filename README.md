@@ -1,5 +1,7 @@
 ## 👋🏻 Hi there  
-- ✍🏻   I'm currently learning kubernetes/docker
+- ✍🏻   I'm currently learning machine learning skills
+- ✍🏻   I'm currently learning kubernetes and docker
+
 - 👩🏻‍💼   Department of CS (Computer Science)
 - 💻   Usually using Python language for programmming
 
