@@ -1,4 +1,4 @@
-## 👋🏻 Hi there  
+## 👋🏻 Hi there
 - ✍🏻   I'm currently learning machine learning skills
 - ✍🏻   I'm currently learning kubernetes and docker
 
