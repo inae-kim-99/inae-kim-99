@@ -1,23 +1,42 @@
-### 👩🏻 Hi, I'm Inae!
-📗 I'm interested in AI and Android.  
-📘 I'm learning about AI and Android.
+## 👋🏻 Hi there  
+
+- 👩🏻‍💼   Department of CS (Computer Science)
+- 💻   Usually using Python language for programmming
+
+<br>
 ### 💪🏻 Skills
-Kotlin, Java, Python
+<p align="center">
+      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>   
+</p>
 
+<p align="center">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+</p>
 
-
-<div>
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=kia3415&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+<div id="main" align="center">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=inae-kim-99&hide=stars,contribs&count_private=true&show_icons=true"
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </div>
 
-<div>
-  
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kia3415.github.io/)](https://kia3415.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kia3415@gmail.com)](mailto:kia3415@gmail.com)
+## 🙋🏻‍♀️ Contact me
 
+<div align="center">
+    <a href="mailto:kia3415@gmail.com">
+        <img 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/i_innnae/"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
+    <a href="https://instagram.com/i_innnae">
+        <img 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/i_innnae/"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
+    
 </div>
+
+
 
 <div>
   
