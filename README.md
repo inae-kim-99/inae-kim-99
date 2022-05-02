@@ -1,7 +1,6 @@
 ## 👋🏻 Hi there
 - ✍🏻   I'm currently learning machine learning skills
-- ✍🏻   I'm currently learning kubernetes and docker
-
+- ✍🏻   I'm currently learning data engineering
 - 👩🏻‍💼   Department of CS (Computer Science)
 - 💻   Usually using Python language for programmming
 
