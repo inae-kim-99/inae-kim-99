@@ -8,10 +8,11 @@
 ## 💪🏻 Skills
 <p align="center">
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>   
+      <img src="https://img.shields.io/badge/Sql-3766AB?style=flat-square&logo=Sql&logoColor=white"/>
 </p>
 
 <p align="center">
+     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>   
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 </p>
 
