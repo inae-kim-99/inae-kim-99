@@ -1,6 +1,5 @@
-## 👋🏻 Hi there
-- ✍🏻   I'm currently learning machine learning skills
-- ✍🏻   I'm currently learning data engineering
+## 👋🏻 Hi there, I'm data enginner!
+- ✍🏻   I'm currently learning data engineering and machine learning skills!
 - 👩🏻‍💼   Department of CS (Computer Science)
 - 💻   Usually using Python language for programmming
 
