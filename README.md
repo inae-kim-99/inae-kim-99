@@ -1,4 +1,4 @@
-## 👋🏻 Hi there, I'm data enginner!
+## 👋🏻 Hi, I'm Machine Learning Engineer.
 - ✍🏻   I'm currently learning data engineering and machine learning skills!
 - 👩🏻‍💼   Department of CS (Computer Science)
 - 💻   Usually using Python language for programmming
